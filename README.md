@@ -1,0 +1,1 @@
+DolceSDKとfnblitがインストールされている必要があります。 泣かないでください。 DolceSDKとfnblitのインストールは簡単です。
